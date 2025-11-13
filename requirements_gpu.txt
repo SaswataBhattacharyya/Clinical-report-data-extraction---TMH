@@ -1,0 +1,5 @@
+-r requirements2.txt
+python-doctr[torch]
+opencv-python
+doctr[torch]
+
